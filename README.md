@@ -1,2 +1,6 @@
 # Java_Beginner_Practice
-나는야 코린이 예진쓰 
+Hi, Yejins
+
+This is my birthday
+
+Let's go to drink!
